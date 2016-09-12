@@ -76,6 +76,9 @@ style: |
     .no-title h2 {
       display: none;
     }
+    .slide::before {
+      display: none;
+    }
 ---
 
 # <span class="sub">Doing nothing for</span> visual regression testing {#Cover}
